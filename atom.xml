@@ -6,7 +6,7 @@
   <link href="https://nekoyyang.eu.org:233/atom.xml" rel="self"/>
   
   <link href="https://nekoyyang.eu.org:233/"/>
-  <updated>2022-10-07T08:03:04.600Z</updated>
+  <updated>2022-10-07T08:28:02.803Z</updated>
   <id>https://nekoyyang.eu.org:233/</id>
   
   <author>
@@ -18,13 +18,22 @@
   
   <entry>
     <title>哪吒监控Neko Mdui主题美化</title>
-    <link href="https://nekoyyang.eu.org:233/2022/10/07/Beautify-NezhaStatus/"/>
-    <id>https://nekoyyang.eu.org:233/2022/10/07/Beautify-NezhaStatus/</id>
-    <published>2022-10-07T07:51:22.000Z</published>
-    <updated>2022-10-07T08:03:04.600Z</updated>
+    <link href="https://nekoyyang.eu.org:233/2022/10/04/Beautify-NezhaStatus/"/>
+    <id>https://nekoyyang.eu.org:233/2022/10/04/Beautify-NezhaStatus/</id>
+    <published>2022-10-04T04:00:00.000Z</published>
+    <updated>2022-10-07T08:28:02.803Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>用NekoMdui这个主题感觉还是差点味道，因为他的主题背景是纯白的（，而加了背景之后感觉还是差点味道，比如说卡片透明一类的，感觉不透明不是很好看()</p><h2 id="演示站"><a href="#演示站" class="headerlink" title="演示站"></a>演示站</h2><p><a href="http://tz.nekoyyang.eu.org:233/">http://tz.nekoyyang.eu.org:233</a></p><h1 id="主题截图"><a href="#主题截图" class="headerlink" title="主题截图"></a>主题截图</h1><p><img src="https://nekoyyang.eu.org:233/img/nezhastatus.png" alt="1"><br><img src="https://s1.ax1x.com/2022/10/07/x89U8s.png" alt="1"></p><h1 id="食用方法"><a href="#食用方法" class="headerlink" title="食用方法"></a>食用方法</h1><h2 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h2><p>登录 -&gt; 管理后台 -&gt; 设置 -&gt; 自定义代码</p><h2 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h2><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><code class="hljs css">&lt;style type=&quot;text/css&quot;&gt;<br><span class="hljs-selector-tag">body</span>&#123;<br><span class="hljs-attribute">background</span>: <span class="hljs-built_in">url</span>(<span class="hljs-string">&quot;https://s1.328888.xyz/2022/10/07/foQMI.png&quot;</span>) no-repeat center center fixed;<br>                -webkit-<span class="hljs-attribute">background-size</span>: cover;<br>                -o-<span class="hljs-attribute">background-size</span>: cover;                <br>                <span class="hljs-attribute">background-size</span>: cover;<br>&#125;<br><span class="hljs-selector-class">.mdui-card</span> &#123;<br>                <span class="hljs-attribute">background-color</span>: <span class="hljs-number">#ffffff54</span>;<br>                <span class="hljs-attribute">border-radius</span>: <span class="hljs-number">15px</span>;<br>                backdrop-<span class="hljs-attribute">filter</span>: <span class="hljs-built_in">blur</span>(<span class="hljs-number">7px</span>);<br>&#125;<br><span class="hljs-selector-class">.mdui-table</span> &#123;<br>                <span class="hljs-attribute">background-color</span>: <span class="hljs-number">#ffffff54</span>;<br>&#125;<br>&lt;/style&gt;<br></code></pre></td></tr></table></figure><h1 id="更新日记"><a href="#更新日记" class="headerlink" title="更新日记"></a>更新日记</h1><p>2022.10.05 增加了服务页面的透明的样式<br>2022.10.04 按照自己的喜好完成了基本</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;用NekoMdui这个主题感觉还是差点味道，因为他的主题背景是纯白的（，而加了背景之后感觉还是差点味道，比如说卡片透明一类的，感觉不透明不是</summary>
+      
     
     
     
+    <category term="折腾" scheme="https://nekoyyang.eu.org:233/categories/%E6%8A%98%E8%85%BE/"/>
     
     
     <category term="nezha" scheme="https://nekoyyang.eu.org:233/tags/nezha/"/>
