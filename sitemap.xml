@@ -67,7 +67,7 @@
 
   <url>
     <loc>https://nekoyyang.eu.org:233/</loc>
-    <lastmod>2022-10-07</lastmod>
+    <lastmod>2022-10-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -75,21 +75,21 @@
   
   <url>
     <loc>https://nekoyyang.eu.org:233/tags/nezha/</loc>
-    <lastmod>2022-10-07</lastmod>
+    <lastmod>2022-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://nekoyyang.eu.org:233/tags/linux/</loc>
-    <lastmod>2022-10-07</lastmod>
+    <lastmod>2022-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://nekoyyang.eu.org:233/tags/hexo/</loc>
-    <lastmod>2022-10-07</lastmod>
+    <lastmod>2022-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -98,14 +98,14 @@
   
   <url>
     <loc>https://nekoyyang.eu.org:233/categories/%E6%8A%98%E8%85%BE/</loc>
-    <lastmod>2022-10-07</lastmod>
+    <lastmod>2022-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://nekoyyang.eu.org:233/categories/%E7%A2%8E%E8%AF%AD/</loc>
-    <lastmod>2022-10-07</lastmod>
+    <lastmod>2022-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
