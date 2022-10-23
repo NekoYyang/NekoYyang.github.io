@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://nekoyyang.eu.org/2022/08/19/hello-world/</loc>
+    <loc>https://nekoyyang.eu.org/2022/10/23/activate-linux/</loc>
     
-    <lastmod>2022-10-16</lastmod>
+    <lastmod>2022-10-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://nekoyyang.eu.org/2022/08/29/Hexo-VPS-Git/</loc>
+    
+    <lastmod>2022-10-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,14 +22,14 @@
   <url>
     <loc>https://nekoyyang.eu.org/2022/10/04/Beautify-NezhaStatus/</loc>
     
-    <lastmod>2022-10-16</lastmod>
+    <lastmod>2022-10-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://nekoyyang.eu.org/2022/08/29/Hexo-VPS-Git/</loc>
+    <loc>https://nekoyyang.eu.org/2022/08/19/hello-world/</loc>
     
     <lastmod>2022-10-16</lastmod>
     
@@ -67,7 +76,7 @@
 
   <url>
     <loc>https://nekoyyang.eu.org/</loc>
-    <lastmod>2022-10-22</lastmod>
+    <lastmod>2022-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -75,21 +84,28 @@
   
   <url>
     <loc>https://nekoyyang.eu.org/tags/nezha/</loc>
-    <lastmod>2022-10-22</lastmod>
+    <lastmod>2022-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://nekoyyang.eu.org/tags/linux/</loc>
-    <lastmod>2022-10-22</lastmod>
+    <loc>https://nekoyyang.eu.org/tags/Linux/</loc>
+    <lastmod>2022-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://nekoyyang.eu.org/tags/hexo/</loc>
-    <lastmod>2022-10-22</lastmod>
+    <loc>https://nekoyyang.eu.org/tags/Hexo/</loc>
+    <lastmod>2022-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://nekoyyang.eu.org/tags/ArchLinux/</loc>
+    <lastmod>2022-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -97,15 +113,22 @@
 
   
   <url>
+    <loc>https://nekoyyang.eu.org/categories/%E7%BC%96%E7%A8%8B/</loc>
+    <lastmod>2022-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://nekoyyang.eu.org/categories/%E6%8A%98%E8%85%BE/</loc>
-    <lastmod>2022-10-22</lastmod>
+    <lastmod>2022-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://nekoyyang.eu.org/categories/%E7%A2%8E%E8%AF%AD/</loc>
-    <lastmod>2022-10-22</lastmod>
+    <lastmod>2022-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

@@ -1,3 +1,4 @@
+https://nekoyyang.eu.org/2022/10/23/activate-linux/
 https://nekoyyang.eu.org/2022/10/04/Beautify-NezhaStatus/
 https://nekoyyang.eu.org/2022/08/29/Hexo-VPS-Git/
 https://nekoyyang.eu.org/2022/08/19/hello-world/
